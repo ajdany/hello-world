@@ -1,2 +1,4 @@
 # hello-world
-hello world educational repos
+hello world educational repos.
+Lets make some Chchchchchchchanges.
+Signed, DB
